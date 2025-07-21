@@ -1,0 +1,43 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.15",
+  "apiVersion": 1,
+  "author": {
+    "id": "792589695590465567",
+    "name": "h2so4_chan"
+  },
+  "service": "Boot.dev",
+  "description": {
+    "en": "Boot.dev is an online platform offering interactive backend programming courses with real projects and AI assistance to help you learn Python, Go, Docker, and more."
+  },
+  "url": "boot.dev",
+  "regExp": "([a-z0-9-]+[.])*(boot)[.]dev[/]",
+  "version": "1.0.0",
+  "logo": "https://i.imgur.com/OUMPrEw.png",
+  "thumbnail": "https://i.imgur.com/IzOXCOi.png",
+  "color": "#2d304e",
+  "category": "other",
+  "tags": [
+    "backend",
+    "programming",
+    "online-learning",
+    "coding",
+    "python",
+    "go",
+    "docker",
+    "developer",
+    "education",
+    "tech-career",
+    "courses",
+    "gamification",
+    "coding-challenges"
+  ],
+  "settings": [
+    {
+      "id": "username",
+      "title": "Username",
+      "icon": "fas fa-user",
+      "value": "",
+      "placeholder": "Please Enter Your Username(such as '@xxxxxx')"
+    }
+  ]
+}
